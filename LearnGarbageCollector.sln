@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnGarbageCollector", "LearnGarbageCollector\LearnGarbageCollector.csproj", "{F6049498-F0A1-48D3-94DD-CE58AE14B5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6049498-F0A1-48D3-94DD-CE58AE14B5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6049498-F0A1-48D3-94DD-CE58AE14B5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6049498-F0A1-48D3-94DD-CE58AE14B5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6049498-F0A1-48D3-94DD-CE58AE14B5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABEB0D4E-9F9C-48B0-8AD8-3973EF07BBA6}
+	EndGlobalSection
+EndGlobal
